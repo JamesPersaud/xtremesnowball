@@ -1,0 +1,59 @@
+Base path: E:/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-5468
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=4 type=0 insize=1482 outsize=1290 kw=SOFTPARTICLES_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1482 outsize=827 kw=SOFTPARTICLES_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1482 outsize=2038 kw=SOFTPARTICLES_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1482 outsize=1550 kw=SOFTPARTICLES_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=4134 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=11048 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=4857 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 _NORMALMAP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=11836 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 _NORMALMAP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1705 outsize=1607 kw=FOG_EXP2 SOFTPARTICLES_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1705 outsize=1136 kw=FOG_EXP2 SOFTPARTICLES_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=5174 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 _NORMALMAP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=12145 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 _NORMALMAP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1705 outsize=2314 kw=FOG_EXP2 SOFTPARTICLES_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1705 outsize=1826 kw=FOG_EXP2 SOFTPARTICLES_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=4451 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=11357 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=4134 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=11048 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=4857 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP _NORMALMAP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=11836 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP _NORMALMAP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1705 outsize=1550 kw=FOG_EXP SOFTPARTICLES_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1705 outsize=1136 kw=FOG_EXP SOFTPARTICLES_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=5174 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP _NORMALMAP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=12145 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP _NORMALMAP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1705 outsize=2257 kw=FOG_EXP SOFTPARTICLES_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1705 outsize=1826 kw=FOG_EXP SOFTPARTICLES_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=4451 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=11357 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF FOG_EXP pd= ok=1
